@@ -1,0 +1,1 @@
+{"name":"Local: girl","url":"/home/wxh/文档/girl.cpp","tests":[{"id":1690703723097,"input":"6\n14 10 -7 -50 -50 20","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/wxh/文档/girl.cpp","group":"local","local":true}

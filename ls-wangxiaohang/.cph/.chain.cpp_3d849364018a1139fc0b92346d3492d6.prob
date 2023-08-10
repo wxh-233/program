@@ -1,0 +1,1 @@
+{"name":"Local: chain","url":"/home/wxh/文档/ls-wangxiaohang/chain.cpp","tests":[{"id":1690765059072,"input":"2 2","output":"2"},{"id":1690767773325,"input":"4 4","output":"14"},{"id":1690772273954,"input":"1000 1000","output":"8503847"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/wxh/文档/ls-wangxiaohang/chain.cpp","group":"local","local":true}

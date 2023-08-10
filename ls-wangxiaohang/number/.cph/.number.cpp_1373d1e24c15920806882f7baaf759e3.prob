@@ -1,0 +1,1 @@
+{"name":"Local: number","url":"/home/wxh/文档/ls-wangxiaohang/number/number.cpp","tests":[{"id":1690859239110,"input":"5\n1 2 4 9 10\n5\n1 1\n1 2\n1 3\n1 4\n1 5","output":"2\n4\n8\n8\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/wxh/文档/ls-wangxiaohang/number/number.cpp","group":"local","local":true}
