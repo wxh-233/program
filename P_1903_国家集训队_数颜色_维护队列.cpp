@@ -21,8 +21,12 @@ namespace wxh666{
         cout<<endl;\
     }
 };using namespace wxh666;
+int n,m;
+int color[133335];
+char op;int x,y;
 int main()
 {
+	cin>>n>>m;
 	
 	return 0;
 }
