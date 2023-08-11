@@ -21,14 +21,31 @@ namespace wxh666{
         cout<<endl;\
     }
 };using namespace wxh666;
-int n,m;
+int n,m,len;
 int color[133335];
 char op;int x,y;
-int change[133335];
+int change[133335],cto[133335],ccnt;
+struct que{
+	int l,r,t;
+}t[133335];
 int main()
 {
 	cin>>n>>m;
 	f(i,1,n) x=in,color[i]=x;
-
+	f(i,1,m)
+	{
+		scanf("%c%d%d",&op,&x,&y);
+		if(op=='Q')
+		{
+			t[i].l=x;
+			t[i].r=y;
+			t[i].t=ccnt;
+		}
+		else
+		{
+			change[++ccnt]=y;
+			cto[ccnt]=x;
+		}
+	}
 	return 0;
 }
