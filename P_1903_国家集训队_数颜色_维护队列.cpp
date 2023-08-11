@@ -30,7 +30,7 @@ struct que{
 }t[133335];
 int main()
 {
-	cin>>n>>m;
+	cin>>n>>m;len=power(n,0.666);
 	f(i,1,n) x=in,color[i]=x;
 	f(i,1,m)
 	{
